@@ -1,5 +1,5 @@
 # MediFinder
-## PyonnersHub
+## PyoneersHub
 
 **¿Qué hace este proyecto?**
 
